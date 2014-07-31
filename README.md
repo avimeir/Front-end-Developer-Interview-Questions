@@ -39,7 +39,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
 * What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
-* Talk about your preferred development environment. (OS, Editor, Browsers, Tools etc.)
+* **Talk about your preferred development environment. (OS, Editor, Browsers, Tools etc.)**
 * Which version control systems are you familiar with?
 * Can you describe your workflow when you create a web page?
 * If you have 5 different stylesheets, how would you best integrate them into the site?
@@ -73,7 +73,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * What are the differences between Long-Polling, Websockets and SSE?
 * Explain the importance of standards and standards bodies.
 * What is FOUC? How do you avoid FOUC?
-* Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
+* **Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.**
 
 ####[[⬆]](#toc) <a name='html'>HTML Questions:</a>
 
@@ -86,13 +86,13 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * What are `data-` attributes good for?
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 * Describe the difference between cookies, sessionStorage and localStorage.
-* Can you explain the difference between `GET` and `POST`?
+* **Can you explain the difference between `GET` and `POST`?**
 
 ####[[⬆]](#toc) <a name='css'>CSS Questions:</a>
 
-* Describe what a "reset" CSS file does and how it's useful.
+* **Describe what a "reset" CSS file does and how it's useful.**
 * Describe Floats and how they work.
-* Describe z-index and how stacking context is formed.
+* **Describe z-index and how stacking context is formed.**
 * What are the various clearing techniques and which is appropriate for what context?
 * Explain CSS sprites, and how you would implement them on a page or site.
 * What are your favourite image replacement techniques and which do you use when?
@@ -109,9 +109,9 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
   * If so, describe what you like and dislike about the CSS preprocessors you have used.
 * How would you implement a web design comp that uses non-standard fonts?
   * Webfonts (font services like: Google Webfonts, Typekit etc.)
-* Explain how a browser determines what elements match a CSS selector?
+* **Explain how a browser determines what elements match a CSS selector?**
 * Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
-* What does ```* { box-sizing: border-box; }``` do? What are its advantages? 
+* **What does ```* { box-sizing: border-box; }``` do? What are its advantages?**
 * List as many values for the display property that you can remember.
 * What's the difference between inline and inline-block?
 * What's the difference between a relative, fixed, absolute and statically positioned element?
@@ -123,16 +123,16 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 ####[[⬆]](#toc) <a name='js'>JS Questions:</a>
 
 * Explain event delegation
-* Explain how `this` works in JavaScript
+* **Explain how `this` works in JavaScript**
 * Explain how prototypal inheritance works
-* How do you go about testing your JavaScript?
+* **How do you go about testing your JavaScript?**
 * AMD vs. CommonJS?
 * What's a hashtable?
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`. 
   * What needs to be changed to properly make it an IIFE?
 * What's the difference between a variable that is: `null`, `undefined` or `undeclared`?
   * How would you go about checking for any of these states?
-* What is a closure, and how/why would you use one?
+* **What is a closure, and how/why would you use one?**
 * What's a typical use case for anonymous functions?
 * Explain the "JavaScript module pattern" and when you'd use it.
   * Bonus points for mentioning clean namespacing.
@@ -149,10 +149,10 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * What's the difference between feature detection, feature inference, and using the UA string
 * Explain AJAX in as much detail as possible
 * Explain how JSONP works (and how it's not really AJAX)
-* Have you ever used JavaScript templating?
-  * If so, what libraries have you used? (Mustache.js, Handlebars etc.)
+* **Have you ever used JavaScript templating?**
+  * **If so, what libraries have you used? (Mustache.js, Handlebars etc.)**
 * Explain "hoisting".
-* Describe event bubbling.
+* **Describe event bubbling.**
 * What's the difference between an "attribute" and a "property"?
 * Why is extending built in JavaScript objects not a good idea?
 * Why is extending built ins a good idea?
@@ -177,7 +177,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * What are some jQuery specific optimizations you can implement?
 * What does `.end()` do?
 * How, and why, would you namespace a bound event handler?
-* Name 4 different values you can pass to the jQuery method.
+* **Name 4 different values you can pass to the jQuery method.**
   * Selector (string), HTML (string), Callback (function), HTMLElement, object, array, element array, jQuery Object etc.
 * What is the effects (or fx) queue?
 * What is the difference between `.get()`, `[]`, and `.eq()`?
